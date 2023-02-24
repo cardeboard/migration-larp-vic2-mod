@@ -1,0 +1,6 @@
+owner = ALN
+controller = ALN
+add_core = ALN
+add_core = CPL
+trade_goods = coal
+life_rating = 35

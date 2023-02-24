@@ -1,0 +1,96 @@
+;;;;;;;;;;;;;x
+welsh;Welsh;;;;;;;;;;;;;x
+scottish;Scottish;;;;;;;;;;;;;x
+wallonian;Walloon;;;;;;;;;;;;x
+montenegrin;Montenegrin;;;;;;;;;;;;;x
+faroese;Faroese;;;;;;;;;;;;;x
+galician;Galician;;;;;;;;;;;;;x
+volga_german;Eastern German;;;;;;;;;;;;;x
+arpitan;Arpitan;;;;;;;;;;;;;x
+leonese;Leonese;;;;;;;;;;;;;x
+hanhui;Hui;;;;;;;;;;;;;x
+siebenburger;Transylvanian-Saxon;;;;;;;;;;;;;x
+jerriais;Jerriais;;;;;;;;;;;;;x
+anglo_canadian;Anglo-Canadian;Anglo-canadien;Anglokanadisch;;Anglocanadiense;;;;;;;;;x;;;;
+french_canadian;French-Canadien;Franco-canadien;Frankokanadisch;;Franco-canadiense;;;;;;;;;x;;;;
+anglo_indian;Anglo-Indian;;;;;;;;;;;;;x
+british;English;Britannique;Britisch;;Brit?ica;;;;;;;;;x;;;;
+pan_french_nationalism;Pan-French Nationalism;;;;;;;;;x;;;;
+vassal_interactions_title;Open Vassal Interactions Menu;;;;;;;;;;;;;
+vassal_interactions_desc;This decision fires an event which will allow you to free or return cores to your vassals.;;;;;;;;;;;;;
+;;;;;;;;;;;;;x
+GOT;Gothony;x;;;;
+GOT_ADJ;Gothonic;x;;;;
+GOT_conservative;Partij af Freideins;x;;;;
+GOT_liberal;Partij af Freihals;x;;;;
+GOT_reactionary;Partij af Reaktioners;x;;;;
+GOT_anarcho_liberal;Partij af Radikals;x;;;;
+GOT_socialist;Gutthiuda;x;;;;
+GOT_communist;Gutthiuda Radikals;x;;;;
+GOT_fascist;Fraujinassus af Gutthiuda;x;;;;
+;;;;;;;;;;;;;x
+VND;Vandalia;x;;;;
+VND_ADJ;Vandal;x;;;;
+VND_conservative;Partij af Freideins;x;;;;
+VND_liberal;Partij af Freihals;x;;;;
+VND_reactionary;Partij af Reaktioners;x;;;;;;;;
+VND_anarcho_liberal;Partij af Radikals;x;;;;
+VND_socialist;Vandalthiuda;x;;;;
+VND_communist;Vandalthiuda Radikals;x;;;;
+VND_fascist;Fraujinassus af Vandalthiuda;x;;;;
+GOT_fascist;Fraujinassus af Gutthiuda;x;;;;
+;;;;;;;;;;;;;x
+BRG;Burgundy;x;;;;
+BRG_ADJ;Burgundian;x;;;;
+BRG_conservative;Partij af Freideins;x;;;;
+BRG_liberal;Partij af Freihals;x;;;;
+BRG_reactionary;Partij af Reaktioners;x;;;;
+BRG_anarcho_liberal;Partij af Radikals;x;;;;
+BRG_socialist;Burgundthiuda;x;;;;
+BRG_communist;Burgundthiuda Radikals;x;;;;
+BRG_fascist;Fraujinassus af Burgundthiuda;x;;;;
+;;;;;;;;;;;;;x
+ALN;Alani;x;;;;
+ALN_ADJ;Alan;x;;;;
+OSS_reactionary;Bardarægad;;;;;;;;;;;;;x
+OSS_liberal;Reformist Faction;;;;;;;;;;;;;x
+OSS_conservative;Særad;;;;;;;;;;;;;x
+OSS_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
+OSS_socialist;Socialist Party;;;;;;;;;;;;;x
+OSS_communist;Communist Part;;;;;;;;;;;;;x
+OSS_fascist;Fascist Party;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+PRU;Prusa;x;;;;
+PRU_ADJ;Prusai;x;;;;
+WUR;Sweben;x;;;;
+WUR_ADJ;Swebic;x;;;;
+SLO;Quadia;x;;;;
+SLO_ADJ;Quadian;x;;;;
+BAD;Alamannia;x;;;;
+BAD_ADJ;Alamanni;x;;;;
+;;;;;;;;;;;;;x
+NET;Francony;;;;;;;;;;;;x
+NET_ADJ;Francon;;;;;;;;;;;;x
+NET_absolute_monarchy;Francony;;;;;;;;;;;;x
+NET_hms_government;Francony;;;;;;;;;;;;x
+NET_prussian_constitutionalism;Francony;;;;;;;;;;;;x
+NET_democracy;Francon Republic;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+LOM;Lombardy;;;;;;;;;;;;x
+LOM_ADJ;Lombard;;;;;;;;;;;;x
+LOM_absolute_monarchy;Kingdom of the Lombards;;;;;;;;;;;;x
+LOM_hms_government;Lombardy;;;;;;;;;;;;x
+LOM_prussian_constitutionalism;Lombardy;;;;;;;;;;;;x
+LOM_presidential_dictatorship;Lombard Republic;;;;;;;;;;;;;x
+LOM_democracy;Lombard Republic;;;;;;;;;;;;;x
+;;;;;;;;;;;;;x
+SLV_ADJ;Roxolania;;;;;;;;;;;;;x
+SLV;Roxolan;;;;;;;;;;;;;x
+SLV_proletarian_dictatorship;Roxolania;;;;;;;;;;;;;x
+SLV_presidential_dictatorship;Roxolania;;;;;;;;;;;;;x
+SLV_bourgeois_dictatorship;Roxolania;;;;;;;;;;;;;x
+SLV_fascist_dictatorship;Roxolania;;;;;;;;;;;;;x
+SLV_absolute_monarchy;Roxolania;;;;;;;;;;;;;x
+SLV_prussian_constitutionalism;Roxolania;;;;;;;;;;;;;x
+SLV_hms_government;Roxolania;;;;;;;;;;;;;x
+SLV_democracy;Roxolania;;;;;;;;;;;;;x
