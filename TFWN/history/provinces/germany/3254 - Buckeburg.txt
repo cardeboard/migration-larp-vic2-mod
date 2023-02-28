@@ -1,7 +1,6 @@
-owner = SCL
-controller = SCL
-add_core = SCL
-add_core = GER
+owner = SLO
+controller = SLO
+add_core = SLO
 trade_goods = fruit
-life_rating = 40
+life_rating = 35
 1861.1.1 = { railroad = 3 }

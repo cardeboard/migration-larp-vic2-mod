@@ -1,6 +1,6 @@
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = LAT
+controller = LAT
+add_core = LAT
 trade_goods = fish
 terrain = montane_tundra
 life_rating = 20

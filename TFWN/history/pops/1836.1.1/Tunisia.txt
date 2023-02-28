@@ -87,7 +87,7 @@
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = italian
 		religion = catholic
 		size = 500
 	}

@@ -1,9 +1,8 @@
-owner = SWH
-controller = SWH
-add_core = SWH
-add_core = LAU
-add_core = GER
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = BRE
 trade_goods = grain
-life_rating = 40
+life_rating = 35
 
 1861.1.1 = { railroad = 3 }

@@ -1,7 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = KAM
+owner = FIN
+controller = FIN
+add_core = IZH
+add_core = FIN
 trade_goods = fish
-life_rating = 20
-colonial = 2
+life_rating = 35
+terrain = forest

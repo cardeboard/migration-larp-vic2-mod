@@ -1,7 +1,8 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-#terrain = urban
+add_core = ITA
+terrain = urban
 trade_goods = fruit
 life_rating = 35
-terrain = monaco
+#terrain = monaco

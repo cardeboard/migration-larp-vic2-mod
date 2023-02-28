@@ -1,7 +1,5 @@
-owner = SWH
-controller = SWH
-add_core = SWH
-add_core = HOL
-add_core = GER
+owner = AGL
+controller = AGL
+add_core = AGL
 trade_goods = fruit
-life_rating = 40
+life_rating = 35

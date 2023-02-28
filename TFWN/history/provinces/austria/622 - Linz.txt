@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = VND
+controller = VND
+add_core = VND
 trade_goods = sulphur
 terrain = linz
 life_rating = 35

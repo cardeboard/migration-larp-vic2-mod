@@ -1,7 +1,5 @@
-owner = UBD
-controller = UBD
-add_core = UBD
-add_core = RUS
-add_core = LAT
+owner = POM
+controller = POM
+add_core = POM
 trade_goods = grain
 life_rating = 35

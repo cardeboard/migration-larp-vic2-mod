@@ -1,9 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = GLM
-add_core = RUT
-add_core = POL
-add_core = UKR
+owner = SLV
+controller = SLV
+add_core = SLV
 trade_goods = coal
 life_rating = 35
 terrain = lvov

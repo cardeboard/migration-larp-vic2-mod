@@ -1,53 +1,66 @@
-#Monaco (170800/22700 POPS)
+
+
+#Alba
 3251 = {
 	aristocrats = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
-		size = 250
+		size = 2000
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
-		size = 25
+		size = 1000
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
-		size = 250
+		size = 7500
+	}
+	
+	soldiers = {
+		culture = italian
+		religion = catholic
+		size = 1000
+	}
+	
+	farmers = {
+		culture = italian
+		religion = catholic
+		size = 60000
+	}
+	
+	aristocrats = {
+		culture = occitan
+		religion = catholic
+		size = 60
 	}
 
+	clergymen = {
+		culture = occitan
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = occitan
+		religion = catholic
+		size = 700
+	}
+	
 	soldiers = {
 		culture = occitan
 		religion = catholic
-		size= 100
-
+		size = 100
 	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 1225
-	}
-	artisans = {
-		culture = north_italian
-		religion = catholic
-		size = 250
-	}
-
+	
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 2850
+		size = 6000
 	}
-
-	bureaucrats = {
-		culture = occitan
-		religion = catholic
-		size = 10
-	}
-
 }
 
 #Andorra (228000/37000 POPS)
@@ -140,69 +153,62 @@
 #Liechtenstein
 3253 = {
 	aristocrats = {
-		culture = south_german
+		culture = vandalic
+		religion = catholic
+		size = 1000
+	}
+	bureaucrats = {
+		culture = vandalic
 		religion = catholic
 		size = 100
 	}
-	bureaucrats = {
-		culture = south_german
-		religion = catholic
-		size = 10
-	}
 	clergymen = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
-		size = 30
+		size = 300
 	}
 
 	artisans = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
-		size = 450
+		size = 4500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
-		size= 100
+		size= 1000
 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
-		size = 875
+		size = 28750
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = romansh
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = romansh
 		religion = catholic
-		size = 30
+		size = 300
 	}
 
 	artisans = {
-		culture = south_german
+		culture = romansh
 		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size= 75
-
+		size = 3500
 	}
 
 	farmers = {
-		culture = south_german
+		culture = romansh
 		religion = catholic
-		size = 1075
+		size = 39075
 	}
 }
 
@@ -210,61 +216,61 @@
 #San Marino
 3266 = {
 	aristocrats = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 	bureaucrats = {
-		culture = north_italian
-		religion = catholic
-		size = 10
-	}
-	clergymen = {
-		culture = north_italian
-		religion = catholic
-		size = 30
-	}
-
-	artisans = {
-		culture = north_italian
-		religion = catholic
-		size = 450
-	}
-
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size= 100
-
-	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 1875
-	}
-
-	aristocrats = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
-
 	clergymen = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
-		size = 30
+		size = 300
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
-		size = 350
+		size = 4500
+	}
+
+	soldiers = {
+		culture = italian
+		religion = catholic
+		size= 1000
+
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
-		size = 1075
+		size = 18750
+	}
+
+	aristocrats = {
+		culture = italian
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = italian
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = italian
+		religion = catholic
+		size = 5500
+	}
+
+	farmers = {
+		culture = italian
+		religion = catholic
+		size = 30750
 	}
 }

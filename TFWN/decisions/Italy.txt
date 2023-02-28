@@ -215,7 +215,7 @@ political_decisions = {
 					OR = {
 						AND = {
 							any_owned_province = { region = PAP_741 }
-							is_culture_group = italian
+							is_culture_group = italian_group
 						}
 						is_sphere_leader_of = TUS
 						is_sphere_leader_of = MOD
@@ -239,21 +239,21 @@ political_decisions = {
 			random_country = {
 				limit = {
 					owns = 741
-					is_culture_group = italian
+					is_culture_group = italian_group
 				}
 				741 = { secede_province = THIS }
 			}
 			random_country = {
 				limit = {
 					owns = 742
-					is_culture_group = italian
+					is_culture_group = italian_group
 				}
 				742 = { secede_province = THIS }
 			}
 			random_country = {
 				limit = {
 					owns = 743
-					is_culture_group = italian
+					is_culture_group = italian_group
 				}
 				743 = { secede_province = THIS }
 			}
@@ -513,8 +513,7 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						OR = {
-							has_pop_culture = north_italian
-							has_pop_culture = south_italian
+							has_pop_culture = italian
 						}
 					}
 					consciousness = 5
@@ -613,7 +612,7 @@ political_decisions = {
 						great_wars_enabled = yes
 						734 = { #Trient
 							owner = {
-								NOT = { is_culture_group = italian }
+								NOT = { is_culture_group = italian_group }
 								OR = {
 									is_greater_power = no
 									is_disarmed = yes
@@ -632,7 +631,7 @@ political_decisions = {
 						great_wars_enabled = yes
 						721 = { #Trient
 							owner = {
-								NOT = { is_culture_group = italian }
+								NOT = { is_culture_group = italian_group }
 								OR = {
 									is_greater_power = no
 									is_disarmed = yes
@@ -655,7 +654,7 @@ political_decisions = {
 						}
 						465 = { #Savoia
 							owner = {
-								NOT = { is_culture_group = italian }
+								NOT = { is_culture_group = italian_group }
 								OR = {
 									is_greater_power = no
 									has_global_flag = france_dismantled
@@ -706,7 +705,7 @@ political_decisions = {
 							great_wars_enabled = yes
 							734 = { #Trient
 								owner = {
-									NOT = { is_culture_group = italian }
+									NOT = { is_culture_group = italian_group }
 									OR = {
 										is_greater_power = no
 										is_disarmed = yes
@@ -725,7 +724,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					owner = {
-						is_culture_group = italian
+						is_culture_group = italian_group
 						OR = {
 							NOT = { has_global_flag = plombieres }
 							has_global_flag = the_treaty_of_milan
@@ -751,7 +750,7 @@ political_decisions = {
 			random_owned = {
 				limit = {
 					owner = {
-						is_culture_group = italian
+						is_culture_group = italian_group
 						has_global_flag = the_treaty_of_milan
 						NOT = { 
 							truce_with = FRA
@@ -772,7 +771,6 @@ political_decisions = {
 		potential = {
 			OR = {
 				tag = SAR
-				tag = SVY
 			}
 			ai = yes
 			NOT = {
@@ -831,7 +829,7 @@ political_decisions = {
 			}
 			any_country = {
 				limit = {
-					is_culture_group = italian
+					is_culture_group = italian_group
 					NOT = { in_sphere = AUS }
 					NOT = { in_sphere = KUK }
 					NOT = { tag = THIS }
@@ -910,7 +908,7 @@ political_decisions = {
 	italian_call_to_union = {
 		picture = form_italy
 		potential = {
-			is_culture_group = italian
+			is_culture_group = italian_group
 			NOT = {
 				exists = ITA
 				has_global_flag = italian_call_to_union
@@ -951,7 +949,7 @@ political_decisions = {
 				is_greater_power = yes
 				AND = {
 					is_secondary_power = yes
-					NOT = { any_greater_power = { is_culture_group = italian } }
+					NOT = { any_greater_power = { is_culture_group = italian_group } }
 				}
 			}
 		}
@@ -970,8 +968,7 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						OR = {
-							has_pop_culture = north_italian
-							has_pop_culture = south_italian
+							has_pop_culture = italian
 						}
 					}
 					consciousness = 2
@@ -993,7 +990,6 @@ political_decisions = {
 			OR = {
 				tag = CRS
 				tag = TRE
-				tag = LOM
 				tag = VEN
 				tag = RMG
 				tag = SRD
@@ -1013,18 +1009,17 @@ political_decisions = {
 			any_pop = {
 				limit = {
 					OR = {
-						has_pop_culture = north_italian
-						has_pop_culture = south_italian
+						has_pop_culture = italian
 					}
 				}
 				militancy = -4
 			}
 			random_country = {
 				limit = {
-					is_culture_group = italian
+					is_culture_group = italian_group
 					is_greater_power = yes
 					THIS = {
-						NOT = { sphere_owner = { is_culture_group = italian } }
+						NOT = { sphere_owner = { is_culture_group = italian_group } }
 					}
 				}
 				diplomatic_influence = {
@@ -1034,7 +1029,7 @@ political_decisions = {
 			}
 			any_country = {
 				limit = {
-					is_culture_group = italian
+					is_culture_group = italian_group
 				}
 				relation = {
 					who = THIS
@@ -1194,7 +1189,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			add_accepted_culture = south_italian
+			add_accepted_culture = italian
 			plurality = 5
 			SRD = { 
 				all_core = {
@@ -1233,7 +1228,7 @@ political_decisions = {
 			}
 			change_tag = SVY
 			any_pop = {
-				limit = { has_pop_culture = north_italian }
+				limit = { has_pop_culture = italian }
 				militancy = -3
 			}
 		}
@@ -1243,64 +1238,64 @@ political_decisions = {
 		}
 	}
 
-	become_piedmont = {
-		picture = become_savoy
-		potential = {
-			tag = SVY
-			NOT = { exists = SAR }
-			SRD = {
-				OR = {
-					exists = no
-					ai = yes
-				}
-			}
-		}
-
-		allow = {
-			war = no
-			owns = 720
-			OR = {
-				owns = 765
-				SRD = {
-					war = no
-					exists = yes
-					NOT = { truce_with = THIS }
-					is_vassal = no
-					relation = { who = THIS value = 150 }
-					OR = {
-						NOT = { part_of_sphere = yes }
-						in_sphere = THIS
-						sphere_owner = { is_sphere_leader_of = THIS }
-					}
-				}
-			}
-		}
-
-		effect = {
-			prestige = 10
-			SVY = {
-				all_core = {
-					add_core = SAR
-					remove_core = SVY
-				}
-			}
-			random_country = {
-				limit = {
-					tag = SRD
-					exists = yes
-				}
-				annex_to = THIS
-			}
-			change_tag = SAR
-			add_accepted_culture = south_italian
-			any_pop = {
-				limit = { is_culture_group = italian }
-				militancy = -3
-			}
-		}
-
-		ai_will_do = { factor = 1 }
-	}
+#	become_piedmont = {
+#		picture = become_savoy
+#		potential = {
+#			tag = SVY
+#			NOT = { exists = SAR }
+#			SRD = {
+#				OR = {
+#					exists = no
+#					ai = yes
+#				}
+#			}
+#		}
+#
+#		allow = {
+#			war = no
+#			owns = 720
+#			OR = {
+#				owns = 765
+#				SRD = {
+#					war = no
+#					exists = yes
+#					NOT = { truce_with = THIS }
+#					is_vassal = no
+#					relation = { who = THIS value = 150 }
+#					OR = {
+#						NOT = { part_of_sphere = yes }
+#						in_sphere = THIS
+#						sphere_owner = { is_sphere_leader_of = THIS }
+#					}
+#				}
+#			}
+#		}
+#
+#		effect = {
+#			prestige = 10
+#			SVY = {
+#				all_core = {
+#					add_core = SAR
+#					remove_core = SVY
+#				}
+#			}
+#			random_country = {
+#				limit = {
+#					tag = SRD
+#					exists = yes
+#				}
+#				annex_to = THIS
+#			}
+#			change_tag = SAR
+#			add_accepted_culture = italian
+#			any_pop = {
+#				limit = { is_culture_group = italian_group }
+#				militancy = -3
+#			}
+#		}
+#
+#		ai_will_do = { factor = 1 }
+#	}
 	
 	conquest_of_the_adriatic = {
 	picture = conquest_adriatic
@@ -1523,7 +1518,7 @@ political_decisions = {
 			add_country_modifier = { name = camillo_cavour duration = 3650 }
 		
 			any_pop = {
-				limit = { is_culture_group = italian }
+				limit = { is_culture_group = italian_group }
 				militancy = -1
 				dominant_issue = { factor = 0.2 value = jingoism }
 			}

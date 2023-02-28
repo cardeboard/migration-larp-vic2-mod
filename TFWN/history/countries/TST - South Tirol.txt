@@ -1,6 +1,5 @@
 capital = 734
-primary_culture = north_italian
-culture = south_german
+primary_culture = italian
 religion = catholic
 government = colonial_company
 plurality = 0.0

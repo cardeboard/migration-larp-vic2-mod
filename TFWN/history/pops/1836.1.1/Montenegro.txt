@@ -347,37 +347,37 @@
 	}
 	
 	aristocrats = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 	
 	officers = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = italian
 		religion = catholic
 		size = 100
 	}

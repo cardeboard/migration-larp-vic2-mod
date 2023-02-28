@@ -3,49 +3,49 @@
 #Bratislava (691060/172765 POPS)
 633 = {
 	bureaucrats = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 125 
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 450
 	}
 	
 	officers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 75 
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 1200 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 6200
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 1250 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 19150
 	}
 	
 	serfs = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 70000
 	}
@@ -57,67 +57,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1550  
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 200  
 	}
 
 	officers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 135   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 135  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 135  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 7400   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 85
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 100  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 9725    
 	}
@@ -153,43 +153,43 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 1250  
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 275 
 	}
 
 	officers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 150 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 11100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 175  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 33000  
 	}
@@ -197,31 +197,31 @@
 #Trencin (342540/85635 POPS)
 634 = {
 	clergymen = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 500 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 2800
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 500 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 53400
 	}
 	
 	serfs = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 29000
 	}
@@ -251,43 +251,43 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 300  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 100  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 6450 
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 50 
 	}
 	
 	officers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 35 
 	}
@@ -295,25 +295,25 @@
 #Nitra (3279752/819938 POPS)
 635 = {
 	clergymen = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 850
 	}
 
 	artisans = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 4400
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 650 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 20300
 	}
@@ -325,73 +325,73 @@
 	}
 	
 	serfs = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 32000
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 2712  
 	}
 	
 	bureaucrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 300
 	}
 	
 	officers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 65
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 190 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 16937 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 115  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 950
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 162  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 17712    
 	}
@@ -421,25 +421,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 50  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 2750  
 	}
@@ -447,31 +447,31 @@
 #Banska Bystrica (340000/85000 POPS)
 636 = {
 	clergymen = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 475
 	}
 
 	artisans = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 2650
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 500 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 40375 
 	}
 	
 	serfs = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 26000 
 	}
@@ -501,37 +501,37 @@
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 50 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 35 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 50  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 4000  
 	}
@@ -565,109 +565,109 @@
 #Kosice (497628/124407POPS)
 637 = {
 	bureaucrats = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 75 
 	}
 
 	officers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 75 
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 975
 	}
 
 	artisans = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 1100 
 	}
 	
 	serfs = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 12000
 	}
 
 	farmers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 29875 
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1875  
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 400 
 	}
 
 	officers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 375 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 237  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 300  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 19166  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 200 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 1300
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 237  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = protestant
 		size = 19762
 	}
@@ -697,37 +697,37 @@
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 225
 	}
 
 	officers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 200  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = vandalic
 		religion = catholic
 		size = 18925  
 	}
@@ -759,37 +759,37 @@
 #Roznava (160400/40100 POPS)
 638 = {
 	clergymen = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 200 
 	}
 
 	serfs = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 5625 
 	}
 	
 	farmers = {
-		culture = slovak
+		culture = iazyge
 		religion = catholic
 		size = 21900    
 	}
 	
 	aristocrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1000
 	}

@@ -1,10 +1,9 @@
-owner = NCT
-controller = NCT
-add_core = NCT
-add_core = SWI
-add_core = PRU
+owner = BAD
+controller = BAD
+add_core = BAD
+add_core = GER
 trade_goods = coal
-life_rating = 32
+life_rating = 35
 
 party_loyalty = {
 	ideology = conservative

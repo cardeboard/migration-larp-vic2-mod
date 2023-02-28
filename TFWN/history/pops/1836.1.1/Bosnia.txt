@@ -51,79 +51,79 @@
 	}
 	
 	aristocrats = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 		
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 4750
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 24000
 	}
 	
 	aristocrats = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 	
 	officers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 4750
 	}
 
 	farmers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 11450
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 1250
 	}
@@ -173,49 +173,49 @@
 	}
 	
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 12625
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 2650
 	}
@@ -253,49 +253,49 @@
 	}
 	
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 18300
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 3675
 	}
@@ -333,49 +333,49 @@
 	}
 	
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 700
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 19125
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 5675
 	}
@@ -425,25 +425,25 @@
 	}
 
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 15300
 	}
@@ -481,49 +481,49 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 11375
 	}
 	
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 12750
 	}
@@ -561,49 +561,49 @@
 	}
 
 	soldiers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = croat
+		culture = bosniak
 		religion = catholic
 		size = 14000
 	}
 	
 	soldiers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 600
 	}
 
 	farmers = {
-		culture = serb
+		culture = bosniak
 		religion = orthodox
 		size = 10300
 	}

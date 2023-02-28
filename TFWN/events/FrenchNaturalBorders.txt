@@ -457,8 +457,7 @@ country_event = {
 						}
 					}
 					has_pop_culture = dutch
-					has_pop_culture = north_italian
-					has_pop_culture = south_italian
+					has_pop_culture = italian
 					has_pop_culture = spanish
 				}
 			}

@@ -1,7 +1,7 @@
-owner = SAX
-controller = SAX
-add_core = SAX
-add_core = GER
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = REU
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 terrain = leipzig

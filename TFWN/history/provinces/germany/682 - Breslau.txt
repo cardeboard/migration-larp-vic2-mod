@@ -1,10 +1,8 @@
-owner = PRU
-controller = PRU
-add_core = PRU
-add_core = SLS
-add_core = GER
+owner = ALN
+controller = ALN
+add_core = ALN
 trade_goods = grain
-life_rating = 40
+life_rating = 35
 terrain = breslau
 state_building = {
 	level = 1

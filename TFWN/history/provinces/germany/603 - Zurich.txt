@@ -1,8 +1,9 @@
-owner = SWI
-controller = SWI
+owner = VND
+controller = VND
+add_core = VND
 add_core = SWI
 trade_goods = iron
-life_rating = 34
+life_rating = 35
 terrain = zurich
 fort = 1
 

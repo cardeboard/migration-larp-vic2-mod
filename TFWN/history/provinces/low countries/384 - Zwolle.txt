@@ -1,5 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = OLD
 trade_goods = fish
 life_rating = 35

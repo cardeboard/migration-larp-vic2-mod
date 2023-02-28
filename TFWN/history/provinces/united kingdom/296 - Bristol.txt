@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = CMB
+controller = CMB
+add_core = CMB
 trade_goods = iron
 life_rating = 35
 terrain = bristol

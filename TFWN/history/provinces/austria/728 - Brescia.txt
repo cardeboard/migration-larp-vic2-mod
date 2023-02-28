@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = LOM
+owner = SVY
+controller = SVY
+add_core = SVY
 add_core = ITA
 trade_goods = silk
 life_rating = 35

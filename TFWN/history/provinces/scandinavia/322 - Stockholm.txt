@@ -1,6 +1,7 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = EST
+controller = EST
+add_core = EST
+add_core = LIT
 trade_goods = coal
 life_rating = 40
 terrain = stockholm

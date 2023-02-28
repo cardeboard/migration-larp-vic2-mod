@@ -375,7 +375,7 @@ country_event = {
 	}
 }
 
-#Italian Red Shirt Unification
+#italian Red Shirt Unification
 country_event = {
 	title = "EVTNAME96170"
 	desc = "EVTDESC11103"
@@ -388,8 +388,8 @@ country_event = {
 	option = {				# Accept inheritance
 		name = "EVTOPTA11103"
 		clr_country_flag = made_the_call_to_union
-		add_accepted_culture = south_italian
-		add_accepted_culture = north_italian
+		add_accepted_culture = italian
+		add_accepted_culture = italian
 		random_owned = { 
 			limit = { owner = { OR = { is_culture_group = italian is_culture_group = germanic } accepted_culture = french } }
 			owner = { remove_accepted_culture = french }

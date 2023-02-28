@@ -1,8 +1,6 @@
-owner = BEL
-controller = BEL
-add_core = BEL
-add_core = NET
-add_core = FLA
+owner = AGL
+controller = AGL
+add_core = AGL
 trade_goods = sulphur
 life_rating = 35
 terrain = brussels

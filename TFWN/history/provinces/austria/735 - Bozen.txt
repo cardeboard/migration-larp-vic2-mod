@@ -1,6 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = TST
+owner = VND
+controller = VND
+add_core = VND
 trade_goods = grain
 life_rating = 35

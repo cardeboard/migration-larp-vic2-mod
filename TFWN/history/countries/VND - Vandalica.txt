@@ -1,5 +1,7 @@
 capital = 510
 primary_culture = vandalic
+culture = romansh
+culture = burgundian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
@@ -39,7 +41,7 @@ colonial_policy = settlement
 
 set_country_flag = catholic_country
 
-ruling_party = VND_conservative_2
+ruling_party = VND_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0

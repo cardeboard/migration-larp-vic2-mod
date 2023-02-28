@@ -1,8 +1,9 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = SVY
+controller = SVY
+add_core = SVY
+add_core = ITA
 trade_goods = wool
-life_rating = 32
+life_rating = 35
 
 party_loyalty = {
 	ideology = conservative

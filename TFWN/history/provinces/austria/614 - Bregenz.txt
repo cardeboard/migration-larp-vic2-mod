@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = VND
+controller = VND
+add_core = VND
+add_core = SWI
 trade_goods = timber
 life_rating = 35

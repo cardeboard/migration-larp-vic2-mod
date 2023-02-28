@@ -1,7 +1,5 @@
 capital = 605
-primary_culture = swiss_german
-culture = swiss_french
-culture = swiss_italian
+primary_culture = vandalic
 culture = romansh
 religion = protestant
 government = democracy

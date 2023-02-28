@@ -1,10 +1,9 @@
-owner = SWH
-controller = SWH
-add_core = SWH
+owner = GOT
+controller = GOT
+add_core = GOT
 add_core = HOL
-add_core = GER
 trade_goods = cattle
-life_rating = 40
+life_rating = 35
 terrain = kiel
 naval_base = 1
 

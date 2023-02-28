@@ -1,9 +1,8 @@
-owner = BAV
-controller = BAV
-add_core = BAV
-add_core = GER
+owner = VND
+controller = VND
+add_core = VND
 trade_goods = coal
-life_rating = 45
+life_rating = 35
 terrain = munich
 #state_building = {
 #	level = 1

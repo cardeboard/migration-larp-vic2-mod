@@ -1,9 +1,9 @@
-owner = AUS
-controller = AUS
-add_core = LOM
+owner = SVY
+controller = SVY
+add_core = SVY
 add_core = ITA
 trade_goods = iron
-life_rating = 40
+life_rating = 35
 terrain = milan
 fort = 1
 #state_building = {

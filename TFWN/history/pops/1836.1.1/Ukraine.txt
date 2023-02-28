@@ -27,25 +27,25 @@
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 200   
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 200
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 19600   
 	}
@@ -299,103 +299,103 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size = 850  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size = 4600 
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size = 900
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size = 85650  
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = roxolani
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = roxolani
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = roxolani
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = slovak
+		culture = roxolani
 		religion = catholic
 		size = 15825
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = roxolani
 		religion = catholic
 		size = 4250  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = roxolani
 		religion = catholic
 		size = 425  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = roxolani
 		religion = catholic
 		size = 2150 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = roxolani
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = roxolani
 		religion = catholic
 		size = 35725  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = roxolani
 		religion = protestant
 		size = 400  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = roxolani
 		religion = protestant
 		size = 2250 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = roxolani
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = roxolani
 		religion = protestant
 		size =  38950   
 	}
@@ -425,49 +425,49 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = roxolani
 		religion = catholic
 		size = 25  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = roxolani
 		religion = catholic
 		size = 75 
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = roxolani
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_german
+		culture = roxolani
 		religion = catholic
 		size = 875  
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = roxolani
 		religion = orthodox
 		size = 125  
 	}
 
 	artisans = {
-		culture = romanian
+		culture = roxolani
 		religion = orthodox
 		size = 750 
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = roxolani
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = romanian
+		culture = roxolani
 		religion = orthodox
 		size = 13975
 	}
@@ -477,25 +477,25 @@
 #Lvov (660000/165000 POPS) #now part of Ukraine 
 702 = {
 	clergymen = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 750
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 4200
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 1000
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 77050
 	}
@@ -599,25 +599,25 @@
 #Stryi (404000/101000 POPS) #now part of Ukraine  
 951 = {
 	clergymen = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 475
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 2550
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 47475
 	}
@@ -703,32 +703,32 @@
 #Ternopil (1136000/284000 POPS) #now part of Ukraine  
 952 = {
 	clergymen = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 1950
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 9900
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 1950
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 184200
 	}
 	
 	
 	serfs = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 80000
 	}
@@ -820,25 +820,25 @@
 #Stanislavov (376000/94000 POPS) #now part of Ukraine  
 953 = {
 	clergymen = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 500
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 2650
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 525
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = roxolani
 		religion = orthodox
 		size = 48325
 	}
@@ -2820,25 +2820,25 @@
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = italian
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = italian
 		religion = catholic
 		size = 900
 	}

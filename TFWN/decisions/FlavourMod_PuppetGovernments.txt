@@ -318,7 +318,7 @@ political_decisions = {
 						vassal_of = IBR
 					}
 				}
-				###Italian Puppets###
+				###italian_group Puppets###
 				AND = {
 					OR = { 
 						tag = ETH

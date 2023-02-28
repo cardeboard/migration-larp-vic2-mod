@@ -65,6 +65,11 @@ ALN		="countries/Alania.txt"
 BRG		="countries/Burgundy.txt"
 GOT		="countries/Gothia.txt"
 VND		="countries/Vandalica.txt"
+FRI		="countries/Friesland.txt"
+CMB		="countries/Cambria.txt"
+AGL		="countries/Anglia.txt"
+KVE		="countries/Kvenland.txt"
+POM		="countries/Pommerania.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"

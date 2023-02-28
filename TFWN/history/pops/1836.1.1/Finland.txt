@@ -223,25 +223,25 @@
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 10
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 925
 	}
@@ -363,45 +363,45 @@
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 225
 	}
 
 	officers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
-		size = 1750
+		size = 17500
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
-		size = 7325
+		size = 73250
 	}
 }
 #Hameenlinna (44000/11000 POPS)
@@ -431,31 +431,31 @@
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 75
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 800
 	}
@@ -487,31 +487,31 @@
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 950
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 10225
 	}
@@ -543,31 +543,31 @@
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 1100
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 175
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 13675
 	}
@@ -599,31 +599,31 @@
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 600
 	}
@@ -633,25 +633,25 @@
 #Aland Islands (11000 POPS)
 348 = {
 	clergymen = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 35
 	}
 
 	artisans = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = swedish
+		culture = finnish
 		religion = protestant
 		size = 2390
 	}

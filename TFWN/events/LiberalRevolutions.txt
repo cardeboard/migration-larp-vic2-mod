@@ -3613,7 +3613,7 @@ country_event = {
 		}
 		any_pop = {
 			limit = {
-				has_pop_culture = north_italian
+				has_pop_culture = italian
 				location = { is_core = ITA }
 			}
 			militancy = 8

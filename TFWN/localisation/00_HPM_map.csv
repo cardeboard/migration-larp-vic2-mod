@@ -16,11 +16,10 @@ PROV1623;Songjin;;;;;;;;;;;;;;x
 PROV388;Brugge;;;;;;;;;;;;;;x
 PROV389;Gent;;;;;;;;;;;;;;x
 PROV390;Antwerpen;;;;;;;;;;;;;;x
-PROV3269;Portsmouth;;;;;;;;;;;;;;x
-PROV3268;Exeter;;;;;;;;;;;;;;x
+PROV3269;Portsmûle;;;;;;;;;;;;;;x
+PROV3268;Esca;;;;;;;;;;;;;;x
 PROV3267;Bielefield;;;;;;;;;;;;;;x
 PROV3266;San Marino;;;;;;;;;;;;;;x
-PROV3265;Essen;;;;;;;;;;;;;;x
 PROV567;Gießen;;;;;;;;;;;;;;x
 FRA_432;Franche-Comté;;;;;;;;;;;;;x
 FRA_411;Lorraine;;;;;;;;;;;;;x
@@ -34,7 +33,8 @@ PROV860;Kostantiniye;;;;;;;;;;;;;x
 PROV869;Smyrna;;;;;;;;;;;;;x
 RUS_1008;Moskva;;;;;;;;;;;;x
 PROV958;Kyiv;;;;;;;;;;;;x
-PROV603;Zürich;;;;;;;;;;;;x
+PROV603;Turitg;;;;;;;;;;;;x
+PROV611;Cuira;;;;;;;;;;;;x
 PROV1017;Oryol;;;;;;;;;;;;x
 PROV1008;Moskva;;;;;;;;;;;;x
 PROV981;Arkhangel'sk;;;;;;;;;;;;x
@@ -437,7 +437,6 @@ BEL_394;Wallonia;;;;;;;;;;;;x
 HAN_534;Hannover;;;;;;;;;;;;x
 PRU_544;Mecklenburg;;;;;;;;;;;;x
 PRU_546;Pommern;;;;;;;;;;;;x
-PRU_575;Rheinland;;;;;;;;;;;;x
 BAV_599;Bayern;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;x
 AUS_652;Banat;;;;;;;;;;;;x
@@ -689,21 +688,25 @@ RUS_345;Turku;;;;;;;;;;;;x
 RUS_360;Lithuania;;;;;;;;;;;;x
 HOL_369;Holstein;;;;;;;;;;;;x
 SCH_370;Schleswig;;;;;;;;;;;;x
-NET_379;Zeeland;;;;;;;;;;;;x
 PROV381;Limburg;;;;;;;;;;;;x
 BEL_387;Flanders;;;;;;;;;;;;x
 BEL_394;Wallonia;;;;;;;;;;;;x
 HAN_528;Niederelbe;;;;;;;;;;;;x
 HAN_534;Hanover;;;;;;;;;;;;x
-HAN_540;Ost-Friesland;;;;;;;;;;;;x
+HAN_540;Eastjúþland;;;;;;;;;;;;x
 PRU_544;Mecklenburg;;;;;;;;;;;;x
 PRU_546;Pomerania;;;;;;;;;;;;x
 PRU_553;Anhalt;;;;;;;;;;;;x
 PRU_554;Thüringen;;;;;;;;;;;;x
 SAX_558;Sachsen;;;;;;;;;;;;x
 PRU_570;Pfalz;;;;;;;;;;;;x
-PRU_575;Rheinland;;;;;;;;;;;;x
-PRU_578;Ost-Rheinland;;;;;;;;;;;;x
+PRU_575;Westryneland;;;;;;;;;;;;x
+PRU_578;Eastryneland;;;;;;;;;;;;x
+NET_379;Norþryneland;;;;;;;;;;;;x
+NET_375;Seeland;;;;;;;;;;;;x
+NET_385;Westjúþland;;;;;;;;;;;;x
+NET_391;Artrect;;;;;;;;;;;;x
+FRA_400;Flandry;;;;;;;;;;;;x
 BAV_595;Franken;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;x
 AUS_652;Banat;;;;;;;;;;;;x
@@ -939,11 +942,11 @@ PROV2187;La Mesilla;;;;;;;;;;;;x
 PROV2628;Ocos;;;;;;;;;;;;x
 BAV_601;Niederbayern;;;;;;;;;;;;x
 PROV3249;Old Tianjin;;;;;;;;;;;;;x
-PROV606;Luzern;;;;;;;;;;;;;x
+PROV606;Lucerna;;;;;;;;;;;;;x
 PROV2627;Coudersport;;;;;;;;;;;;x
 PROV160;Superior;;;;;;;;;;;;x
 PROV3250;Fribourg;;;;;;;;;;;;;x
-PROV3251;Monaco;;;;;;;;;;;;;x
+PROV3251;Cuneo;;;;;;;;;;;;;x
 PROV185;Pikeville;;;;;;;;;;;;x
 PROV186;Lexington;;;;;;;;;;;;x
 PROV196;Gadsden;;;;;;;;;;;;x

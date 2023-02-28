@@ -1,7 +1,7 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = TST
+owner = SVY
+controller = SVY
+add_core = SVY
+add_core = ITA
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 2 }

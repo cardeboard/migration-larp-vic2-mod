@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = SAX
+controller = SAX
+add_core = SAX
+add_core = GER
 trade_goods = coal
-life_rating = 30
+life_rating = 35

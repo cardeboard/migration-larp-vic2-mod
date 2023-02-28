@@ -138,7 +138,7 @@ country_event = {
 	}
 }
 
-#Italian Pan-Nationalists Victorious
+#italian Pan-Nationalists Victorious
 country_event = {
 	
 	id = 96205

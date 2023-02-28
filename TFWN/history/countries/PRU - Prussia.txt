@@ -1,7 +1,5 @@
-capital = 549
-primary_culture = north_german
-culture = south_german
-culture = volga_german
+capital = 335
+primary_culture = prusai
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0

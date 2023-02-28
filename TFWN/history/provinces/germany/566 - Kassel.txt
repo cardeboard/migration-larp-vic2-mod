@@ -1,8 +1,8 @@
-owner = HEK
-controller = HEK
-add_core = HEK
-add_core = GER
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = BRG
 trade_goods = coal
 terrain = kassel
-life_rating = 40
+life_rating = 35
 1861.1.1 = { railroad = 3 }

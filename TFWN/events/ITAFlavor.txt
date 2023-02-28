@@ -704,7 +704,7 @@ country_event = {
 	desc = "EVTDESC96160"
 
 	trigger = {
-		primary_culture = north_italian
+		primary_culture = italian
 		war = no
 		is_vassal = no
 		ai = yes
@@ -855,7 +855,7 @@ country_event = {
 country_event = {
 
 	id = 96165
-	title = "EVTNAME96165" #Italian Unification
+	title = "EVTNAME96165" #italian Unification
 	desc = "EVTDESC96165"
 	picture = "unite"
 
@@ -1107,7 +1107,7 @@ country_event = {
 			set_country_flag = objects_to_italy
 		}
 		add_accepted_culture = south_italian
-		add_accepted_culture = north_italian
+		add_accepted_culture = italian
 		random_owned = { 
 			limit = { owner = { is_culture_group = italian accepted_culture = french } }
 			owner = { remove_accepted_culture = french }

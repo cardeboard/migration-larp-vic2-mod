@@ -1,9 +1,10 @@
-owner = SAX
-controller = SAX
-add_core = SAX
-add_core = GER
+owner = ALN
+controller = ALN
+add_core = GOT
+add_core = WEI
+add_core = ALN
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 terrain = dresden
 state_building = {
 	level = 1

@@ -33,55 +33,55 @@
 	}
 
 	clergymen = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 3675  
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 300  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 75     
 	}
 
 	farmers = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 5225  
 	}
@@ -89,91 +89,91 @@
 #Pancevo (268000/67000 POPS) #part of Serbia today
 792 = {
 	clergymen = {
-		culture = serb
+		culture = iazyge
 		religion = orthodox
 		size = 250
 	}
 
 	artisans = {
-		culture = serb
+		culture = iazyge
 		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = serb
+		culture = iazyge
 		religion = orthodox
 		size = 300 
 	}
 
 	serfs = {
-		culture = serb
+		culture = iazyge
 		religion = orthodox
 		size = 23325
 	}
 	
 	farmers = {
-		culture = serb
+		culture = iazyge
 		religion = catholic
 		size = 1000
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 600  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 100  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 8700 
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 1100  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 200   
 	}
 
 	artisans = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 200     
 	}
 
 	farmers = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 17600  
 	}
@@ -241,31 +241,31 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1400  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 300  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 300  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = iazyge
 		religion = catholic
 		size = 25000 
 	}
@@ -277,25 +277,25 @@
 	}
 	
 	clergymen = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 50 
 	}
 
 	serfs = {
-		culture = croat
+		culture = iazyge
 		religion = catholic
 		size = 4625  
 	}
@@ -325,31 +325,31 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 1100  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 250     
 	}
 
 	farmers = {
-		culture = south_german
+		culture = iazyge
 		religion = catholic
 		size = 20375 
 	}

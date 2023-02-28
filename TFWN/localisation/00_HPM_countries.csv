@@ -2153,8 +2153,8 @@ SLE_reactionary;National Reformation Council;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLE_socialist;Sierra Leone People's Party;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLE_communist;All People's Congress;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLE_fascist;Dawoh;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SLS;Silesia;;;;;;;;;;;;;x
-SLS_ADJ;Silesian;;;;;;;;;;;;;x
+SLS;Sleza;;;;;;;;;;;;;x
+SLS_ADJ;Slezan;;;;;;;;;;;;;x
 SLS_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;Liberaldem. Partei;;;;;;;;;x;;;;;;;;;;;;;;
 SLS_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;Zentrumspartei;;;;;;;;;x;;;;;;;;;;;;;;
 SLS_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;Nationalliberale ;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2275,8 +2275,8 @@ SUL_communist;Communist Faction;;;;;;;;;;;;;x
 SUL_reactionary;Nationalist Faction;;;;;;;;;;;;;x
 SUL_anarcho_liberal;Radical Faction;;;;;;;;;;;;;x
 SUL_fascist;Fascist faction;;;;;;;;;;;;;x
-SVY;Savoy;;;;;;;;;;;;;x
-SVY_ADJ;Savoyard;;;;;;;;;;;;;x
+SVY;Italia;;;;;;;;;;;;;x
+SVY_ADJ;Italian;;;;;;;;;;;;;x
 SWH;Schleswig-Holstein;;;;;;;;;;;;x
 SWH_ADJ;Schleswigian;;;;;;;;;;;;x
 SWH_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;

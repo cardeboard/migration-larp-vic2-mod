@@ -8,7 +8,7 @@ country_event = {
 		
 	trigger = {
 		OR = {
-			primary_culture = north_italian
+			primary_culture = italian
 			primary_culture = south_italian
 		}
 		owns = 749
@@ -17,7 +17,7 @@ country_event = {
 		1848 = {
 			OR = {
 				any_pop = { culture = south_italian }
-				any_pop = { culture = north_italian }
+				any_pop = { culture = italian }
 			}
 		}
 	}
@@ -47,7 +47,7 @@ country_event = {
 		
 	trigger = {
 		OR = {
-			primary_culture = north_italian
+			primary_culture = italian
 			primary_culture = south_italian
 		}
 		year = 1915
