@@ -444,49 +444,49 @@
 #Lugano (108000/27000 POPS)
 2568 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 30675
 	}
 	
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 2400
 	}

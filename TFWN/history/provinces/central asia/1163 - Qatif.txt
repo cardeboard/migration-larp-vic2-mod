@@ -1,6 +1,7 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = KWT
+controller = KWT
+add_core = KWT
+add_core = IRQ
 trade_goods = fish
 life_rating = 35
 terrain = semidesert

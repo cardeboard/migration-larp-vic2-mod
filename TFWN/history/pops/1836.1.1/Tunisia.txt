@@ -87,7 +87,7 @@
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 500
 	}

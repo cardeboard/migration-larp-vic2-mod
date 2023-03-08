@@ -1,9 +1,10 @@
 ;;;;;;;;;;;;;x
 west_germanic;Anglo-Frisian;;;;;;;;;;;;;x
 romano_british;Romano-British;;;;;;;;;;;;;x
-italian_group;Italic;;;;;;;;;;;;;x
+italian;Italic;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;x
-italian;Romanian;;;;;;;;;;;;;x
+rhomanian;Rhomanian;;;;;;;;;;;;;x
+south_italian;Romagnian;;;;;;;;;;;;;x
 swiss_german;Langubart;;;;;;;;;;;;;x
 south_german;Diutisc;;;;;;;;;;;;;x
 prusai;Pruthene;;;;;;;;;;;;;x
@@ -18,12 +19,12 @@ roxolani;Roxalani;;;;;;;;;;;;;x
 iazyge;Iazyges;;;;;;;;;;;;;x
 silesian;Slezan;;;;;;;;;;;;;x
 sorbian;Luzican;;;;;;;;;;;;;x
-welsh;Ordovece;;;;;;;;;;;;;x
+welsh;Pretane;;;;;;;;;;;;;x
 romano_briton;Bretanean;;;;;;;;;;;;;x
 anglic;Ænglisk;;;;;;;;;;;;;x
 seaxon;Sahsisk;;;;;;;;;;;;;x
 jutsk;Jutsk;;;;;;;;;;;;;x
-frysk;Frysk;;;;;;;;;;;;;x
+frysk;Walsh;;;;;;;;;;;;;x
 scottish;Pict;;;;;;;;;;;;;x
 wallonian;Walloon;;;;;;;;;;;;x
 montenegrin;Montenegrin;;;;;;;;;;;;;x

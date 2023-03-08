@@ -388,8 +388,7 @@ country_event = {
 	option = {				# Accept inheritance
 		name = "EVTOPTA11103"
 		clr_country_flag = made_the_call_to_union
-		add_accepted_culture = italian
-		add_accepted_culture = italian
+		add_accepted_culture = rhomanian
 		random_owned = { 
 			limit = { owner = { OR = { is_culture_group = italian is_culture_group = germanic } accepted_culture = french } }
 			owner = { remove_accepted_culture = french }

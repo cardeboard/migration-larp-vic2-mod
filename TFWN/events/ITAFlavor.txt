@@ -704,7 +704,7 @@ country_event = {
 	desc = "EVTDESC96160"
 
 	trigger = {
-		primary_culture = italian
+		primary_culture = rhomanian
 		war = no
 		is_vassal = no
 		ai = yes
@@ -1106,8 +1106,7 @@ country_event = {
 			limit = { is_sphere_leader_of = THIS }
 			set_country_flag = objects_to_italy
 		}
-		add_accepted_culture = south_italian
-		add_accepted_culture = italian
+		add_accepted_culture = rhomanian
 		random_owned = { 
 			limit = { owner = { is_culture_group = italian accepted_culture = french } }
 			owner = { remove_accepted_culture = french }

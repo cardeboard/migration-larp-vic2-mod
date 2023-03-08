@@ -1,0 +1,10 @@
+owner = SVY
+controller = SVY
+add_core = SVY
+add_core = ITA
+trade_goods = iron
+life_rating = 35
+1861.1.1 = {
+	owner = ITA
+	controller = ITA
+}

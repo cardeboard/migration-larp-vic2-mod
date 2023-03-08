@@ -3801,31 +3801,31 @@
 #Nice (Sardinian until 1860) (170800/42700 POPS)
 472 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 19025
 	}
@@ -3837,13 +3837,13 @@
 	}
 	
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 8825
 	}
 	
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 225
 	}
@@ -3853,61 +3853,61 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 400
 	}
 
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 4800
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 43300
 	}

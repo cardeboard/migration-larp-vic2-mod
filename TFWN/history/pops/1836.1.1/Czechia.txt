@@ -817,19 +817,19 @@
 	artisans = {
 		culture = sarmatian
 		religion = catholic
-		size = 1550 
+		size = 3550 
 	}
 
 	soldiers = {
 		culture = sarmatian
 		religion = catholic
-		size = 200
+		size = 10000
 	}
 
 	farmers = {
 		culture = sarmatian
 		religion = catholic
-		size = 17610   
+		size = 77610   
 	}
 }
 #Teschen (116000/29000 POPS)

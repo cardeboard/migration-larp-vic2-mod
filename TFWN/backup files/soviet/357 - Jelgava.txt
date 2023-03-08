@@ -1,0 +1,5 @@
+owner = SLS
+controller = SLS
+add_core = SLS
+trade_goods = cattle
+life_rating = 35

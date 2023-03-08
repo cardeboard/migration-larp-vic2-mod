@@ -3,7 +3,7 @@
 #========================= H E A D E R =========================
 
 capital = 3251
-primary_culture = italian
+primary_culture = rhomanian
 religion = catholic
 government = absolute_monarchy
 plurality = 5

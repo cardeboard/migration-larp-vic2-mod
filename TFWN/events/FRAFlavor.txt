@@ -1116,7 +1116,7 @@ country_event = {
 		473 = {
 			change_controller = THIS
 			any_pop = {
-				limit = { has_pop_culture = italian }
+				limit = { has_pop_culture = rhomanian }
 				militancy = -8
 			}
 			secede_province = CRS

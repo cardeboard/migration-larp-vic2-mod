@@ -3,31 +3,31 @@
 #Alba
 3251 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 2000
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1000
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 7500
 	}
 	
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1000
 	}
 	
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 60000
 	}
@@ -216,60 +216,60 @@
 #San Marino
 3266 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 	bureaucrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 18750
 	}
 
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 5500
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 30750
 	}

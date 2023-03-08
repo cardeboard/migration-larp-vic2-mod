@@ -2131,19 +2131,20 @@ SHA_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 SHA_fascist;Fascist Party;;;;;;;;;;;;;x
 SAK;Siak;;;;;;;;;;;;;x
 SAK_ADJ;Siak;;;;;;;;;;;;;x
-SIB;Siberian Republic;;;;;;;;;;;;;x
-SIB_absolute_monarchy;Siberia;;;;;;;;;;;;;x
-SIB_prussian_constitutionalism;Siberia;;;;;;;;;;;;;x
-SIB_hms_government;Siberia;;;;;;;;;;;;;x
-SIB_ADJ;Siberian;;;;;;;;;;;;;x
+SIB;Magyaria;;;;;;;;;;;;;x
+SIB_democracy;Magyar Republic;;;;;;;;;;;;;x
+SIB_absolute_monarchy;Magyar Khanate;;;;;;;;;;;;;x
+SIB_prussian_constitutionalism;Magyar Khanate;;;;;;;;;;;;;x
+SIB_hms_government;Magyar Khanate;;;;;;;;;;;;;x
+SIB_ADJ;Magyar;;;;;;;;;;;;;x
 SIB_conservative;Slavophile;Slavophile;Slawophile;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIB_liberal;Westerniser;Westerniser;Westler;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIB_communist;Social Democratic;Social-démocrate;Social Democratic;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIB_socialist;Menshevik;Menshevik;Menschewiki;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIB_reactionary;Panslavic;Panslavic;Panslawisten;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIB_conservative_2;Octobrists;Octobristes;Octobristen;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIB_anarcho_liberal;Radicals;Radicaux;Radikale;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIB_fascist;Fascists;Fascistes;Faschisten;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIB_reactionary;Az Árpádok;Az Árpádok;Az Árpádok;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIB_conservative_2;Konzervatívok;Konzervatívok;Konzervatívok;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIB_anarcho_liberal;Mögyeri Törökök Frakciója;Mögyeri Törökök Frakciója;Mögyeri Törökök Frakciója;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIB_fascist;Nacionalisták;Nacionalisták;Nacionalisták;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLE;Sierra Leone;;;;;;;;;;;;x
 SLE_ADJ;Sierra Leonean;;;;;;;;;;;;x
 SLE_liberal;United Progressive Party;;;;;;;;;;;;x;;;;;;;;;;;;;;

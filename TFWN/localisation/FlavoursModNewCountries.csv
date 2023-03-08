@@ -184,8 +184,9 @@ EGY_absolute_monarchy;The Sultanate of Egypt;;;;;;;;;;;;;;x
 EGY_prussian_constitutionalism;The Egyptian Kingdom;;;;;;;;;;;;;x
 EGY_hms_government;The Egyptian Kingdom;;;;;;;;;;;;;x,
 EGY_colonial_company;The Khedivate of Egypt;;;;;;;;;;;;;;x
-KWT;The Sheikhdom of Kuwait;;;;;;;;;;;x
-KWT_ADJ;Kuwaiti;;;;;;;;;;;x
+KWT;Lakhmids;;;;;;;;;;;x
+KWT_colonial_company;Lakhmid Marzbanate;;;;;;;;;;;;;;x
+KWT_ADJ;Lakhmid;;;;;;;;;;;x
 SYR_dominion;Grand Liban;;;;;;;;;;;;;;x
 SYR_colonial_company;Grand Liban;;;;;;;;;;;;;;x
 SYR_dominion;Syrie;;;;;;;;;;;;;;x

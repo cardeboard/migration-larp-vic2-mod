@@ -2820,25 +2820,25 @@
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 900
 	}

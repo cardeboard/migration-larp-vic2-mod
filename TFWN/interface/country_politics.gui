@@ -22,7 +22,7 @@ guiTypes = {
 	
 	positionType = {
 		name = "ruling_party_pos"
-		position = { x=37 y =236 }
+		position = { x=37 y =231 }
 	}
 	
 	########################
@@ -180,8 +180,8 @@ guiTypes = {
 		### COUNTRY MODIFIERS
 		OverlappingElementsBoxType = {
 			name = "country_modifier_overlappingbox"
-			position = { x = 630 y = -35 }
-			size = { x=200 y= 32 }
+			position = { x = 600 y = -35 }
+			size = { x=250 y= 32 }
 			Orientation = "UPPER_LEFT"
 			format = right
 			spacing = 1.0
@@ -295,7 +295,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "hold_election"
-			position = { x=37 y =263 }
+			position = { x=37 y =259 }
 			quadTextureSprite ="GFX_politics_election_button"
 			buttonText = "HOLD_ELECTION_BUTTON"
 			buttonFont = "vic_18_black"
@@ -645,7 +645,7 @@ guiTypes = {
 		windowType = {
 			name = "debt_law"
 			backGround =""
-			position = { x = 614 y = 517 }
+			position = { x = 536 y = 517 }
 			size = { x=151 y= 92}
 			moveable = 0
 			dontRender = ""
@@ -901,7 +901,7 @@ guiTypes = {
 			windowType = {
 			name = "colonial_policy"
 			backGround =""
-			position = { x = 769 y = 517 }
+			position = { x = 691 y = 517 }
 			size = { x=151 y=92 }
 			moveable = 0
 			dontRender = ""
@@ -926,33 +926,33 @@ guiTypes = {
 
 			}
 			
-			windowType = {
-			name = "pollution"
-			backGround =""
-			position = { x = 536 y = 328 }
-			size = { x=150 y=92 }
-			moveable = 0
-			dontRender = ""
-			horizontalBorder = "0"
-			verticalBorder = ""
-			fullScreen = no
-			
-				iconType = {
-				name = "politics_industrial_regulations"
-				spriteType = "GFX_politics_industrial_regulations"
-				position = { x= 4 y = 13 } #WAS { x= 7 y = 8 }
-				Orientation = "UPPER_LEFT"
-					}
-				instantTextBoxType = { 
-				name = "reform_name"
-				position = { x = 31 y = 20 } #WAS { x = 40 y = 15 }
-				font = "vic_18"
-				text = "REFORM_NAME"	
-				maxWidth = 150
-				maxHeight = 20	
-					}
-
-			}
+			#windowType = {
+			#name = "pollution"
+			#backGround =""
+			#position = { x = 536 y = 328 }
+			#size = { x=150 y=92 }
+			#moveable = 0
+			#dontRender = ""
+			#horizontalBorder = "0"
+			#verticalBorder = ""
+			#fullScreen = no
+			#
+			#	iconType = {
+			#	name = "politics_industrial_regulations"
+			#	spriteType = "GFX_politics_industrial_regulations"
+			#	position = { x= 4 y = 13 } #WAS { x= 7 y = 8 }
+			#	Orientation = "UPPER_LEFT"
+			#		}
+			#	instantTextBoxType = { 
+			#	name = "reform_name"
+			#	position = { x = 31 y = 20 } #WAS { x = 40 y = 15 }
+			#	font = "vic_18"
+			#	text = "REFORM_NAME"	
+			#	maxWidth = 150
+			#	maxHeight = 20	
+			#		}
+			#
+			#}
 			
 			windowType = {
 				name = "trade_unions"
@@ -1214,7 +1214,8 @@ guiTypes = {
 			windowType = {
 				name = "penal_system"
 				backGround =""
-				position = { x = 459 y = 517 }
+				position = { x = 536 y = 328 }
+				#position = { x = 459 y = 517 }
 				size = { x=151 y= 92}
 				moveable = 0
 				dontRender = ""
@@ -1879,7 +1880,7 @@ guiTypes = {
 			}
 			
 			windowType = {
-				name = "naval_supplies_ref"
+				name = "western_shipyards"
 				backGround =""
 				position = { x = 536 y = 383 }
 				size = { x=149 y=100 }
@@ -2022,7 +2023,7 @@ guiTypes = {
 	}
 	
 	########################
-	# IDEOLOGY OPTION      #
+	# IDEOLOGY OPTION - UH Ideology Division    #
 	########################
 	
 	windowType = {
@@ -2062,7 +2063,7 @@ guiTypes = {
 	}	
 	
 	########################
-	# ISSUE OPTION         #
+	# ISSUE OPTION - Important Issues Table        #
 	########################
 	
 	windowType = {
@@ -2342,7 +2343,7 @@ guiTypes = {
 	windowType = {
 		name = "party_window"
 		backGround =""
-		size = { x=340 y=135 }
+		size = { x=340 y=152 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -2371,12 +2372,12 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 
-		
+		# Controls how big the listbox with party policies is
 		listboxType = {
 			name ="issue_listbox"
 			position = { x = 0 y = 52 }
 			backGround=""
-			size = { x=340 y = 125 }
+			size = { x=200 y = 137 }
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
@@ -2440,13 +2441,13 @@ guiTypes = {
 	
 	
 	########################
-	# PARTY ISSUE OPTION   #
+	# PARTY ISSUE OPTION   # UH Policy/Issue table control
 	########################
 	
 	windowType = {
 		name = "party_issue_option_window"
 		backGround =""
-		size = { x=200 y=16 }
+		size = { x=200 y=15 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -2467,7 +2468,7 @@ guiTypes = {
 			position = { x = 140 y = 0 }
 			font = "vic_18_black"
 			text = " "	
-			maxWidth = 150
+			maxWidth = 200
 			maxHeight = 20	
 		}
 	}

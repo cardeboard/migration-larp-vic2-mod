@@ -1,10 +1,5 @@
-trade_goods = timber
-terrain = new_world_boreal
+owner = HAL
+controller = HAL
+add_core = HAL
+trade_goods = wool
 life_rating = 10
-colonial = 2
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = RPL
-	colonial = 2
-}

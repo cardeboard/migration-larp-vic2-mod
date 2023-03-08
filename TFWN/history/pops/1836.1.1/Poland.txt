@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = sarmatian
 		religion = protestant
-		size = 3300 
+		size = 10000 
 	}
 
 	farmers = {
@@ -103,13 +103,13 @@
 	soldiers = {
 		culture = sarmatian
 		religion = protestant
-		size = 1000
+		size = 10000
 	}
 
 	farmers = {
 		culture = sarmatian
 		religion = protestant
-		size = 34375
+		size = 84375
 	}
 
 	clergymen = {
@@ -133,7 +133,7 @@
 	farmers = {
 		culture = eastern_gothic
 		religion = protestant
-		size = 1825    
+		size = 19825    
 	}
 }
 #Koslin (160000/40000 POPS) #Part of Poland since 1945
@@ -165,7 +165,7 @@
 	farmers = {
 		culture = sarmatian
 		religion = protestant
-		size = 24150
+		size = 74150
 	}
 
 	clergymen = {
@@ -183,13 +183,13 @@
 	soldiers = {
 		culture = sarmatian
 		religion = protestant
-		size = 100     
+		size = 10000     
 	}
 
 	farmers = {
 		culture = eastern_gothic
 		religion = protestant
-		size = 10250     
+		size = 24250     
 	}
 
 	clergymen = {
@@ -241,13 +241,13 @@
 	soldiers = {
 		culture = sarmatian
 		religion = protestant
-		size = 2000
+		size = 10000
 	}
 
 	farmers = {
 		culture = sarmatian
 		religion = protestant
-		size = 46425
+		size = 86425
 	}
 
 	farmers = {
@@ -323,7 +323,7 @@
 	farmers = {
 		culture = sarmatian
 		religion = protestant
-		size = 147280
+		size = 247280
 	}
 
 	clergymen = {
@@ -341,7 +341,7 @@
 	soldiers = {
 		culture = sarmatian
 		religion = catholic
-		size = 1000
+		size = 10000
 	}
 
 	farmers = {
@@ -852,7 +852,7 @@
 	artisans = {
 		culture = sarmatian
 		religion = protestant
-		size = 9500
+		size = 25500
 	}
 
 	soldiers = {
@@ -864,7 +864,7 @@
 	farmers = {
 		culture = eastern_gothic
 		religion = protestant
-		size = 12100
+		size = 29100
 	}
 	
 		farmers = {
@@ -932,7 +932,7 @@
 	farmers = {
 		culture = sarmatian
 		religion = protestant
-		size = 23825
+		size = 53825
 	}
 
 		clergymen = {
@@ -992,7 +992,7 @@
 	farmers = {
 		culture = eastern_gothic
 		religion = catholic
-		size = 13425
+		size = 23425
 	}
 }
 #Deutsche Krone (128000/32000 POPS) 
@@ -1024,7 +1024,7 @@
 	farmers = {
 		culture = sarmatian
 		religion = protestant
-		size = 25950
+		size = 75950
 	}
 
 	clergymen = {
@@ -1048,7 +1048,7 @@
 	farmers = {
 		culture = eastern_gothic
 		religion = catholic
-		size = 2625
+		size = 22625
 	}
 }
 #Elbing (148000/37000 POPS) 
@@ -1489,7 +1489,7 @@
 	farmers = {
 		culture = sarmatian
 		religion = catholic
-		size = 28375
+		size = 68375
 	}
 }
 #Gniezno (456000/116000 POPS) 
@@ -1737,13 +1737,13 @@
 	farmers = {
 		culture = sarmatian
 		religion = catholic
-		size = 40000 
+		size = 70000 
 	}
 	
 	serfs = {
 		culture = polish
 		religion = catholic
-		size = 15000 
+		size = 25000 
 	}
 
 	clergymen = {

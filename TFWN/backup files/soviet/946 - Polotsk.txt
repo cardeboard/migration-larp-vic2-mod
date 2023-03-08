@@ -1,0 +1,5 @@
+owner = GLM
+controller = GLM
+add_core = GLM
+trade_goods = wool
+life_rating = 35

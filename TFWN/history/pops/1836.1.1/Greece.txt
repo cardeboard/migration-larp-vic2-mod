@@ -805,7 +805,7 @@
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 650
 	}

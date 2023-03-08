@@ -3,55 +3,55 @@
 #Pola (188000/47000 POPS) #now part of Croatia 
 770 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1450
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 20875
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 20625
 	}
@@ -207,61 +207,61 @@
 #Sisak (116000/29000 POPS)
 772 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 16300
 	}
 	
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 125
 	}
 
 	serfs = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 10225
 	}
@@ -269,55 +269,55 @@
 #Karlovac (184000/46000 POPS)
 773 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1700
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 30400
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 600
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 150
 	}
 
 	serfs = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 11125
 	}
@@ -325,61 +325,61 @@
 #Senj (96000/24000 POPS)
 774 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 125
 	}
 	
 	bureaucrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 11325
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 125
 	}
 
 	serfs = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 10225
 	}
@@ -543,55 +543,55 @@
 #Fiume (52000/13000 POPS)
 778 = {
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 4700
 	}
 
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 4425
 	}
@@ -743,37 +743,37 @@
 #Split (140000/35000 POPS)
 780 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 23250
 	}
 	
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = sunni
 		size = 100
 	}
@@ -785,31 +785,31 @@
 	}
 	
 	serfs = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 10000
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 450
 	}
@@ -817,97 +817,97 @@
 #Zadar (128000/32000 POPS)
 781 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 20525
 	}
 
 	bureaucrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 2125
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 300
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 6550
 	}
@@ -915,91 +915,91 @@
 #Dubrovnik (52000/13000 POPS)
 782 = {
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 9125
 	}
 	
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = sunni
 		size = 100
 	}
 
 	aristocrats = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = italian
+		culture = rhomanian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 25
 	}
 
 	serfs = {
-		culture = italian
+		culture = rhomanian
 		religion = orthodox
 		size = 1825
 	}

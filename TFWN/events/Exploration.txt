@@ -816,7 +816,7 @@ country_event = {
 		is_greater_power = yes # Nation is a great power
 		OR = {
 			primary_culture = british
-			primary_culture = italian
+			primary_culture = rhomanian
 			primary_culture = south_italian
 			primary_culture = north_german
 			capital = 619
@@ -881,7 +881,7 @@ country_event = {
 		random_owned = { limit = { owner = { primary_culture = british } } 3102 = { change_province_name = "Lake Victoria" } }
 		random_owned = { limit = { owner = { primary_culture = north_german } } 3102 = { change_province_name = "Lake Wilhelm" } }
 		random_owned = { limit = { owner = { capital = 619 } } 3102 = { change_province_name = "Lake Franz" } }
-		random_owned = { limit = { owner = { primary_culture = italian } } 3102 = { change_province_name = "Lake Vittorio" } }
+		random_owned = { limit = { owner = { primary_culture = rhomanian } } 3102 = { change_province_name = "Lake Vittorio" } }
 		random_owned = { limit = { owner = { primary_culture = russian } } 3102 = { change_province_name = "Lake Romanov" } }
 		random_owned = { limit = { owner = { primary_culture = spanish } } 3102 = { change_province_name = "Lake Carlos" } }
 		random_owned = { limit = { owner = { primary_culture = french } } 3102 = { change_province_name = "Lake Bourbon" } }
@@ -908,7 +908,7 @@ country_event = {
 		random_owned = { limit = { owner = { primary_culture = british } } 3102 = { change_province_name = "Lake Wellesley" } }
 		random_owned = { limit = { owner = { primary_culture = north_german } } 3102 = { change_province_name = "Lake Bismarck" } }
 		random_owned = { limit = { owner = { capital = 619 } } 3102 = { change_province_name = "Lake Metternich" } }
-		random_owned = { limit = { owner = { primary_culture = italian } } 3102 = { change_province_name = "Lake Cavour" } }
+		random_owned = { limit = { owner = { primary_culture = rhomanian } } 3102 = { change_province_name = "Lake Cavour" } }
 		random_owned = { limit = { owner = { primary_culture = russian } } 3102 = { change_province_name = "Lake Yekaterina" } }
 		random_owned = { limit = { owner = { primary_culture = spanish } } 3102 = { change_province_name = "Lake Isabella" } }
 		random_owned = { limit = { owner = { primary_culture = french } } 3102 = { change_province_name = "Lake Napoleon" } }
@@ -932,7 +932,7 @@ country_event = {
 		random_owned = { limit = { owner = { primary_culture = north_german } } 3102 = { change_province_name = "Lake Von Moltke" } }
 		random_owned = { limit = { owner = { capital = 619 } } 3102 = { change_province_name = "Lake Habsburg" } }
 		random_owned = {
-			limit = { owner = { OR = { primary_culture = italian primary_culture = south_italian } } } 
+			limit = { owner = { OR = { primary_culture = rhomanian primary_culture = south_italian } } } 
 			3102 = { change_province_name = "Lake Garibaldi" }
 		}
 		random_owned = { limit = { owner = { primary_culture = russian } } 3102 = { change_province_name = "Lake Pyotr" } }
@@ -957,7 +957,7 @@ country_event = {
 		random_owned = { limit = { owner = { primary_culture = north_german } } 3102 = { change_province_name = "Lake Germania" } }
 		random_owned = { limit = { owner = { capital = 619 } } 3102 = { change_province_name = "Lake Österreich" } }
 		random_owned = {
-			limit = { owner = { OR = { primary_culture = italian primary_culture = south_italian } } } 
+			limit = { owner = { OR = { primary_culture = rhomanian primary_culture = south_italian } } } 
 			3102 = { change_province_name = "Lake Italia" }
 		}
 		random_owned = { limit = { owner = { primary_culture = russian } } 3102 = { change_province_name = "Lake Russia" } }
@@ -984,7 +984,7 @@ country_event = {
 		random_owned = { limit = { owner = { primary_culture = north_german } } 3102 = { change_province_name = "Lake Berlin" } }
 		random_owned = { limit = { owner = { capital = 619 } } 3102 = { change_province_name = "Lake Vienna" } }
 		random_owned = {
-			limit = { owner = { OR = { primary_culture = italian primary_culture = south_italian } } } 
+			limit = { owner = { OR = { primary_culture = rhomanian primary_culture = south_italian } } } 
 			3102 = { change_province_name = "Lake Rome" }
 		}
 		random_owned = { limit = { owner = { primary_culture = russian } } 3102 = { change_province_name = "Lake Moscow" } }
@@ -1026,7 +1026,7 @@ country_event = {
 		is_greater_power = yes # Nation is a great power
 		NOT = {
 			primary_culture = british
-			primary_culture = italian
+			primary_culture = rhomanian
 			primary_culture = south_italian
 			primary_culture = north_german
 			capital = 619

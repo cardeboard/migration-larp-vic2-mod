@@ -1,5 +1,5 @@
 capital = 734
-primary_culture = italian
+primary_culture = rhomanian
 religion = catholic
 government = colonial_company
 plurality = 0.0

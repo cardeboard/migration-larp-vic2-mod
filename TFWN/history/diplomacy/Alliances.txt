@@ -1,11 +1,3 @@
-#Friso-Cambrean Alliance
-alliance = {
-	first = CMB
-	second = FRI
-	start_date = 1386.9.5
-	end_date = 1936.1.1
-}
-	
 #Morrocan-Algerian
 alliance = {
 		first = MOR 

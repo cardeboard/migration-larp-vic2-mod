@@ -21,3 +21,11 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1936.1.1
 }
+
+#Persia
+substate = {
+	first = PER
+	second = KWT
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}

@@ -1,6 +1,6 @@
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = ALD
+controller = ALD
+add_core = ALD
 terrain = semidesert
 trade_goods = wool
 life_rating = 31

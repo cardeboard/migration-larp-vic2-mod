@@ -1785,171 +1785,81 @@
 #London (2052000/513000 POPS)
 300 = {
 	aristocrats = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
-		size = 5500
+		size = 1500
 	}
 
 	officers = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
-		size = 2500
+		size = 250
 	}
 
 	bureaucrats = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
-		size = 18000
+		size = 1800
 	}
 
 	clergymen = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
-		size = 18250
+		size = 1825
 	}
 
 	capitalists = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
-		size = 2500
+		size = 250
 	}
-
-	clerks = {
-		culture = frysk
-		religion = protestant
-		size = 12000
-	}
-
-	craftsmen = {
-		culture = frysk
-		religion = protestant
-		size = 116000
-	}
-
+	
 	artisans = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
 		size = 10000
 	}
 	
 	artisans = {
-		culture = frysk
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = frysk
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = frysk
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = frysk
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
 		size = 9500
 	}
 
 	soldiers = {
-		culture = frysk
+		culture = romano_briton
 		religion = protestant
-		size = 40000
+		size = 4000
 	}
 
 	farmers = {
 		culture = frysk
 		religion = protestant
-		size = 127000
+		size = 143000
 	}
 
 	artisans = {
-		culture = frysk
+		culture = romano_briton
 		religion = catholic
 		size = 8000
 	}
 
 	farmers = {
-		culture = frysk
+		culture = romano_briton
 		religion = catholic
-		size = 17000
-	}
-
-	clerks = {
-		culture = frysk
-		religion = jewish
-		size = 100
-	}
-
-	craftsmen = {
-		culture = frysk
-		religion = jewish
-		size = 1500
+		size = 37000
 	}
 
 	artisans = {
-		culture = frysk
+		culture = ashkenazi
 		religion = jewish
 		size = 3400
-	}
-
-	craftsmen = {
-		culture = romano_briton
-		religion = catholic
-		size = 4000
-	}
-
-	artisans = {
-		culture = romano_briton
-		religion = catholic
-		size = 10000
-	}
-	
-	artisans = {
-		culture = romano_briton
-		religion = catholic
-		size = 2000
-	}
-	
-	farmers = {
-		culture = romano_briton
-		religion = protestant
-		size = 1050
-	}
-	
-	farmers = {
-		culture = romano_briton
-		religion = catholic
-		size = 900
 	}
 	
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
 		size = 300
-	}
-	
-	farmers = {
-		culture = romano_briton
-		religion = catholic
-		size = 400
-	}
-	
-	farmers = {
-		culture = romano_briton
-		religion = catholic
-		size = 400
 	}
 
 }

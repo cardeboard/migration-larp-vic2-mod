@@ -288,29 +288,29 @@ country_event = {
 		NOT = {
 			exists = LOM
 			has_country_flag = no_lombardy_independence
-			primary_culture = italian
+			primary_culture = rhomanian
 			tag = ITA
 		}
 		is_possible_vassal = LOM
 		revolution_n_counterrevolution = 1
 		OR = {
 			AND = {
-				NOT = { accepted_culture = italian }
+				NOT = { accepted_culture = rhomanian }
 				any_state = {
 					any_owned_province = {
 						is_core = LOM
-						culture = italian
+						culture = rhomanian
 						literacy = 0.25
 					}
 					average_militancy = 3
 				}
 			}
 			AND = {
-				accepted_culture = italian
+				accepted_culture = rhomanian
 				any_state = {
 					any_owned_province = {
 						is_core = LOM
-						culture = italian
+						culture = rhomanian
 						literacy = 0.5
 					}
 					average_militancy = 7
@@ -325,7 +325,7 @@ country_event = {
 		modifier = {
 			factor = 1.5
 			any_pop = {
-				has_pop_culture = italian
+				has_pop_culture = rhomanian
 				is_accepted_culture = yes
 			}
 		}	
@@ -360,19 +360,19 @@ country_event = {
 		}
 	}
 
-	immediate = { random_owned = { limit = { owner = { accepted_culture = italian } } owner = { remove_accepted_culture = italian } } }
+	immediate = { random_owned = { limit = { owner = { accepted_culture = rhomanian } } owner = { remove_accepted_culture = rhomanian } } }
 	
 	option = {
 		name = "EVT90017OPTA"
 		any_pop = {
 			limit = {
 				location = { is_core = LOM }
-				has_pop_culture = italian
+				has_pop_culture = rhomanian
 			}
 			militancy = 3
 		}
 		any_owned = {
-			limit = { culture = italian }
+			limit = { culture = rhomanian }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 365
@@ -425,17 +425,17 @@ country_event = {
 		release_vassal = LOM
 		LOM = {
 			any_pop = {
-				limit = { has_pop_culture = italian }
+				limit = { has_pop_culture = rhomanian }
 				militancy = -8
 			}
 		}
 		any_pop = {
-			limit = { has_pop_culture = italian }
+			limit = { has_pop_culture = rhomanian }
 			militancy = -3
 		}
 		any_pop = {
 			limit = {
-				NOT = { has_pop_culture = italian }
+				NOT = { has_pop_culture = rhomanian }
 				is_primary_culture = no
 			}
 			militancy = 1
@@ -504,12 +504,12 @@ country_event = {
 		any_pop = {
 			limit = {
 				location = { is_core = LOM }
-				has_pop_culture = italian
+				has_pop_culture = rhomanian
 			}
 			militancy = 8
 		}
 		any_owned = {
-			limit = { culture = italian }
+			limit = { culture = rhomanian }
 			add_province_modifier = {
 				name = nationalist_agitation
 				duration = 730

@@ -1,5 +1,6 @@
-owner = FRI
-controller = FRI
+owner = CMB
+controller = CMB
+add_core = CMB
 add_core = FRI
 trade_goods = grain
 life_rating = 35

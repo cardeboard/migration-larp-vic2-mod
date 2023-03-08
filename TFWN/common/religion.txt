@@ -70,6 +70,15 @@ yazidi_group = {
 	}
 }
 
+zoroastrian_group = {
+    zoroastrian = {
+        icon = 19
+        color = {
+            0.7 0.2 0.1
+        }
+    }
+}
+
 eastern = {
 	mahayana = {
 		color = { 0.8 0.3 0 }

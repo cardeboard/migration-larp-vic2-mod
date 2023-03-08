@@ -513,7 +513,7 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						OR = {
-							has_pop_culture = italian
+							has_pop_culture = rhomanian
 						}
 					}
 					consciousness = 5
@@ -968,7 +968,7 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						OR = {
-							has_pop_culture = italian
+							has_pop_culture = rhomanian
 						}
 					}
 					consciousness = 2
@@ -1009,7 +1009,7 @@ political_decisions = {
 			any_pop = {
 				limit = {
 					OR = {
-						has_pop_culture = italian
+						has_pop_culture = rhomanian
 					}
 				}
 				militancy = -4
@@ -1189,7 +1189,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			add_accepted_culture = italian
+			add_accepted_culture = rhomanian
 			plurality = 5
 			SRD = { 
 				all_core = {
@@ -1228,7 +1228,7 @@ political_decisions = {
 			}
 			change_tag = SVY
 			any_pop = {
-				limit = { has_pop_culture = italian }
+				limit = { has_pop_culture = rhomanian }
 				militancy = -3
 			}
 		}
@@ -1287,7 +1287,7 @@ political_decisions = {
 #				annex_to = THIS
 #			}
 #			change_tag = SAR
-#			add_accepted_culture = italian
+#			add_accepted_culture = rhomanian
 #			any_pop = {
 #				limit = { is_culture_group = italian_group }
 #				militancy = -3

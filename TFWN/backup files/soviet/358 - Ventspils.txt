@@ -1,0 +1,5 @@
+owner = POM
+controller = POM
+add_core = POM
+trade_goods = fish
+life_rating = 35

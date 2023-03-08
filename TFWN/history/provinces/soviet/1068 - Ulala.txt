@@ -1,7 +1,7 @@
 owner = RUS
 controller = RUS
 add_core = RUS
-add_core = SIB
+add_core = ALT
 # add_core = TNT
 add_core = ALT
 trade_goods = coal
